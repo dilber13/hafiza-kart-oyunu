@@ -1,0 +1,15 @@
+C:\Users\dndag\Desktop\hafizaKartOyunu\hafizaKartOyunu\bin\Debug\net6.0\hafizaKartOyunu.exe
+C:\Users\dndag\Desktop\hafizaKartOyunu\hafizaKartOyunu\bin\Debug\net6.0\hafizaKartOyunu.deps.json
+C:\Users\dndag\Desktop\hafizaKartOyunu\hafizaKartOyunu\bin\Debug\net6.0\hafizaKartOyunu.runtimeconfig.json
+C:\Users\dndag\Desktop\hafizaKartOyunu\hafizaKartOyunu\bin\Debug\net6.0\hafizaKartOyunu.dll
+C:\Users\dndag\Desktop\hafizaKartOyunu\hafizaKartOyunu\bin\Debug\net6.0\hafizaKartOyunu.pdb
+C:\Users\dndag\Desktop\hafizaKartOyunu\hafizaKartOyunu\obj\Debug\net6.0\hafizaKartOyunu.csproj.AssemblyReference.cache
+C:\Users\dndag\Desktop\hafizaKartOyunu\hafizaKartOyunu\obj\Debug\net6.0\hafizaKartOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dndag\Desktop\hafizaKartOyunu\hafizaKartOyunu\obj\Debug\net6.0\hafizaKartOyunu.AssemblyInfoInputs.cache
+C:\Users\dndag\Desktop\hafizaKartOyunu\hafizaKartOyunu\obj\Debug\net6.0\hafizaKartOyunu.AssemblyInfo.cs
+C:\Users\dndag\Desktop\hafizaKartOyunu\hafizaKartOyunu\obj\Debug\net6.0\hafizaKartOyunu.csproj.CoreCompileInputs.cache
+C:\Users\dndag\Desktop\hafizaKartOyunu\hafizaKartOyunu\obj\Debug\net6.0\hafizaKartOyunu.dll
+C:\Users\dndag\Desktop\hafizaKartOyunu\hafizaKartOyunu\obj\Debug\net6.0\refint\hafizaKartOyunu.dll
+C:\Users\dndag\Desktop\hafizaKartOyunu\hafizaKartOyunu\obj\Debug\net6.0\hafizaKartOyunu.pdb
+C:\Users\dndag\Desktop\hafizaKartOyunu\hafizaKartOyunu\obj\Debug\net6.0\hafizaKartOyunu.genruntimeconfig.cache
+C:\Users\dndag\Desktop\hafizaKartOyunu\hafizaKartOyunu\obj\Debug\net6.0\ref\hafizaKartOyunu.dll
